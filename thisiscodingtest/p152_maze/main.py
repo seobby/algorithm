@@ -23,7 +23,6 @@ while q:
         if distance[nx][ny] == 1:
             distance[nx][ny] = distance[x][y] + 1
             q.append((nx, ny))
-            print(nx, ny)
 
 
 print(distance[N-1][M-1])
