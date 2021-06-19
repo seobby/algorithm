@@ -7,3 +7,5 @@
 - [이코테] [BFS] p152_maze (미로 탈출)
   - BFS를 이용하여 풀이 
  
+### 2021-06-20
+- [이코테] [BinarySearch] p201_ricecake
