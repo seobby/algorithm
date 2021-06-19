@@ -9,3 +9,6 @@
  
 ### 2021-06-20
 - [이코테] [BinarySearch] p201_ricecake
+- [이코테] [BinarySearch] p367_Q27_count_num
+  - main.py : Binary Search 로직을 직접 짜서 구현 (첫 요소와 마지막 요소를 각각 찾아서 사이 값의 개수 계산)
+  - main2.py : bisect 모듈의 bisect_left / bisect_right 를 사용함 
